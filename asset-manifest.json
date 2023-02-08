@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/email-checker/static/css/main.32bf97fa.css",
+    "main.js": "/email-checker/static/js/main.c329fe0f.js",
+    "static/js/787.38aa6c5c.chunk.js": "/email-checker/static/js/787.38aa6c5c.chunk.js",
+    "index.html": "/email-checker/index.html",
+    "main.32bf97fa.css.map": "/email-checker/static/css/main.32bf97fa.css.map",
+    "main.c329fe0f.js.map": "/email-checker/static/js/main.c329fe0f.js.map",
+    "787.38aa6c5c.chunk.js.map": "/email-checker/static/js/787.38aa6c5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32bf97fa.css",
+    "static/js/main.c329fe0f.js"
+  ]
+}
